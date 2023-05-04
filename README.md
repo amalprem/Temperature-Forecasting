@@ -53,6 +53,7 @@ Methodology
   SARIMAX
   
   VAR
+  
 7) Comparing different models and choosing the best model to forecast temperature
 
 
