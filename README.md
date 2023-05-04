@@ -47,10 +47,13 @@ Methodology
   Cross Correlation
 5) Spectral Analysis ( Checking signals in frequency domain)
 6) Model Selection and Fitting
+
   ARIMAX 
+  
   SARIMAX
+  
   VAR
-7) Comapring different models and choosing the best model to forecast temperature
+7) Comparing different models and choosing the best model to forecast temperature
 
 
 
