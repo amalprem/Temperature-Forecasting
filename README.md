@@ -42,18 +42,13 @@ Methodology
 2) Checking Stationarity in the time series data using ADF and KPSS tests
 3) Using Differencing to remove seasonality from data.
 4) Plotting types of correlations
-  Auto Correlation
-  Partial Auto Correlation
-  Cross Correlation
+  (Auto Correlation, 
+  Partial Auto Correlation, 
+  Cross Correlation)
 5) Spectral Analysis ( Checking signals in frequency domain)
 6) Model Selection and Fitting
-
-  ARIMAX 
-  
-  SARIMAX
-  
-  VAR
-  
+(ARIMAX, SARIMAX,
+  VAR)
 7) Comparing different models and choosing the best model to forecast temperature
 
 
